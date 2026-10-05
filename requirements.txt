@@ -1,0 +1,34 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+
+# Models / tuning
+lightgbm
+tensorflow
+keras
+keras-tuner
+optuna
+
+# Utils
+prettytable
+xlsx2csv
+openpyxl
+toml
+joblib
+requests
+aiohttp
+
+# Computer-vision examples only (heavy; install if you run Computer_Vision_almost/)
+# opencv-python
+# dlib
+# face_recognition
+# deepface
+
+# Reinforcement-learning examples only
+# tf-agents
+# gym

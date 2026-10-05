@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.hypothesis/
+# local test images (bring your own; not committed)
+**/Computer_Vision_almost/images/*.jpg
+**/Computer_Vision_almost/images/*.png
